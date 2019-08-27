@@ -37,6 +37,12 @@ goodbye<br/>
 `Bot: goodbye.`<br/>
 
 
+For a detailed explanation, go through the repo in the following order: 
+1. Preparing the Data
+2. Defining the Models
+3. Training & Evaluation
+
+
 This project implements ideas from the following papers:
 * [Sutskever et al.](https://arxiv.org/abs/1409.3215)
 * [Bahdanau et al.](https://arxiv.org/abs/1409.0473)

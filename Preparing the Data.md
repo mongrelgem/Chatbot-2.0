@@ -284,7 +284,7 @@ If we simply convert our English sentences to tensors by converting words to the
 
 * __inputVar__ method converts sentences into tensors
 * __outputVar__ method is similiar to above , but it instead returns a binary mask tensor & maximum target sentence length.
-* __batch2TrainData  simply takes a bunch of pairs and returns the input and target tensors using the aforementioned functions.
+* __batch2TrainData__  simply takes a bunch of pairs and returns the input and target tensors using the aforementioned functions.
 
 ```Python
 def indexesFromSentence(voc, sentence):
